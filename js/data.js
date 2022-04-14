@@ -90,5 +90,114 @@ var dataJson = {
                 }
             ]
         }
+		, 
+		{
+            "sceneName": "8",
+            "image": "7.jpg",
+            "infoPoints": [{
+                    "infoPointsName": "7",
+                    "infoPointsCoordinates": [4643.79, -782.30, 1663.93],
+                    "infoHoverText": "7"					
+                }, {
+                    "infoPointsName": "9",
+                    "infoPointsCoordinates": [-723.13, -930.40, 4848.80],
+                    "infoHoverText": "9"		
+                }
+            ]
+        }
+		, 
+		{
+            "sceneName": "9",
+            "image": "8.jpg",
+            "infoPoints": [{
+                    "infoPointsName": "8",
+                    "infoPointsCoordinates": [-3792.93, -1391.02, 2930.94],
+                    "infoHoverText": "8"					
+                }, {
+                    "infoPointsName": "10",
+                    "infoPointsCoordinates": [-4273.30, 476.51, -2540.97],
+                    "infoHoverText": "10"		
+                }
+            ]
+        }
+		, 
+		{
+            "sceneName": "10",
+            "image": "9.jpg",
+            "infoPoints": [{
+                    "infoPointsName": "9",
+                    "infoPointsCoordinates": [2965.40, -667.77, -3961.95],
+                    "infoHoverText": "9"					
+                }, {
+                    "infoPointsName": "11",
+                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                    "infoHoverText": "11"		
+                }
+            ]
+        }
+		, 
+		{
+            "sceneName": "11",
+            "image": "10.jpg",
+            "infoPoints": [{
+                    "infoPointsName": "10",
+                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                    "infoHoverText": "9"					
+                }, {
+                    "infoPointsName": "12",
+                    "infoPointsCoordinates": [2965.40, -667.77, -3961.95],
+                    "infoHoverText": "12"		
+                }				
+				
+            ]
+        }
+		, 
+		{
+            "sceneName": "12",
+            "image": "11.jpg",
+            "infoPoints": [{
+                    "infoPointsName": "11",
+                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                    "infoHoverText": "11"					
+                }, {
+                    "infoPointsName": "13",
+                    "infoPointsCoordinates": [2965.40, -667.77, -3961.95],
+                    "infoHoverText": "13"		
+                }				
+				
+            ]
+        }
+		, 
+		{
+            "sceneName": "13",
+            "image": "12.jpg",
+            "infoPoints": [{
+                    "infoPointsName": "12",
+                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                    "infoHoverText": "12"					
+                }, {
+                    "infoPointsName": "14",
+                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                    "infoHoverText": "14"		
+                }				
+				
+            ]
+        }
+		, 
+		{
+            "sceneName": "14",
+            "image": "13.jpg",
+            "infoPoints": [{
+                    "infoPointsName": "13",
+                    "infoPointsCoordinates": [3714.54, -675.30, 3269.51],
+                    "infoHoverText": "13"					
+                }, {
+                    "infoPointsName": "15",
+                    "infoPointsCoordinates": [-2389.34, -2127.16, -3831.46],
+                    "infoHoverText": "15"		
+                }				
+				
+            ]
+        }
     ]
 };
